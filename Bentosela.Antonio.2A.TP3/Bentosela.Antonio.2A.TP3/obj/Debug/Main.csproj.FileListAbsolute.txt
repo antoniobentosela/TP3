@@ -1,0 +1,32 @@
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Bentosela.Antonio.2A.TP3.exe.config
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Bentosela.Antonio.2A.TP3.exe
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Bentosela.Antonio.2A.TP3.pdb
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\obj\Debug\Bentosela.Antonio.2A.TP3.exe
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\obj\Debug\Bentosela.Antonio.2A.TP3.pdb
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Clases Abstractas.dll
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Clases Instanciables.dll
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Clases Abstractas.pdb
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Clases Instanciables.pdb
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\obj\Debug\Main.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Bentosela.Antonio.2A.TP3.exe.config
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Bentosela.Antonio.2A.TP3.exe
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Bentosela.Antonio.2A.TP3.pdb
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Clases Abstractas.dll
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Clases Instanciables.dll
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Clases Abstractas.pdb
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Clases Instanciables.pdb
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\obj\Debug\Main.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\obj\Debug\Bentosela.Antonio.2A.TP3.exe
+C:\Users\Usuario\Desktop\TP3\Bentosela.Antonio.2A.TP3\Bentosela.Antonio.2A.TP3\obj\Debug\Bentosela.Antonio.2A.TP3.pdb
